@@ -1,0 +1,15 @@
+Reference Designators;Quantity;Description;Package;Value;Manufacturer;Manufacturer Part Number (MPN);Vendor;Vendor Part Number;Top/Bottom;
+U$2, U$3, U$4, U$5;4;;DIP8;TLC2272;DigiKey;;;;Top;
+U$6, U$7, U$9;3;For use by pick and place machines to calibrate the vision/machine, 1mm;FIDUCIAL_1MM;FIDUCIAL;Bourns Inc.;;;;Top;
+C3, C4;2;Capacitor - Generic;CAPC1005X60;1 μF;Bourns Inc.;;;;Top;
+R14, R4, R5;3;Resistor Fixed - ANSI;RESC1005X40;1 MΩ;Bourns Inc.;;;;Top;
+C7;1;Capacitor - Generic;CAPC1005X60;330 pF;Bourns Inc.;;;;Top;
+R6, R7;2;Resistor Fixed - Generic;RESC1005X40;22 kΩ;Bourns Inc.;;;;Top;
+B1;1;Arduino R3 Footprint with SPI header;ARDUINO_R3;ARDUINO_UNO_R3;SparkFun Electronics;;;;Top;
+R1;1;Resistor Fixed - Generic;RESC1005X40;120 Ω;Bourns Inc.;;;;Top;
+C5, C6;2;Capacitor - Generic;CAPC1005X60;110 nF;Bourns Inc.;;;;Top;
+C1;1;Capacitor - Generic;CAPC1005X60;100  μF;Bourns Inc.;;;;Top;
+R2, R3;2;Resistor Fixed - Generic;RESC1005X40;100 kΩ;Bourns Inc.;;;;Top;
+R8;1;Resistor Fixed - Generic;RESC1005X40;47 kΩ;Bourns Inc.;;;;Top;
+R13;1;Potentiometer 2K Ohm 1/20W Carbon Linear;PTV09A-X;PTV09A-40-B20220F;Bourns Inc.;PTV09A-4020F-B202;;;Top;
+U$1;1;;DIP8;AD623BNZDIP8;DigiKey;;;;Top;
